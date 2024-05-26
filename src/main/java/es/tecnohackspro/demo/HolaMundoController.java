@@ -8,7 +8,7 @@ public class HolaMundoController {
 
     @GetMapping("/hola")
     public String holaMundo(){
-        return "Hola metodi";
+        return "Eres un jodido grande hijo de puta";
 
     }
 }
